@@ -8,6 +8,10 @@ This is an example to demonstrate Git stuff
 
 ## Purpose
 
+As stated above this is simple shit to aid learning Git.
+
 ## Deployment
+
+This is a simple modification, blah, blah, blah, Deployment
 
 ## How To Contribute
